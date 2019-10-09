@@ -42,9 +42,11 @@ packages:
   syncfusion_flutter_core:
     dependency: "direct main"
     description:
-      name: syncfusion_flutter_core
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "0c2d2dcf7d7b1612fb20ef1249ac34a17532fde6"
+      url: "git://github.com/sagarprince/flutter_scharts_core.git"
+    source: git
     version: "17.3.14"
   typed_data:
     dependency: transitive
