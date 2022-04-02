@@ -13,5 +13,5 @@ dependencies:
   syncfusion_flutter_core: 
     git:
       url: git://github.com/sagarprince/flutter_scharts_core.git
-  intl: ^0.16.0
+  intl: 0.17.0
   vector_math: ^2.0.8  
